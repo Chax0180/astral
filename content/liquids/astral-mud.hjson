@@ -1,4 +1,4 @@
-type: Liquid
+type: CellLiquid
 name: Astral Mud
 description: Dirt saturated with water. Must be filtered in order to extract said water.
 effect: astral-muddy
@@ -9,7 +9,7 @@ maxSpread: 0
 spreadDamage: 0
 moveThroughBlocks: false
 blockReactive: false
-temperature: 0.8
+temperature: 0.2
 heatCapacity: 0
 explosiveness: 0
 viscosity: 1.1

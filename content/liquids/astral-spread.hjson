@@ -6,10 +6,10 @@ colorFrom: 493955
 colorTo: 3b324d
 maxSpread: 0
 spreadDamage: 1
-moveThroughBlocks: false
+moveThroughBlocks: true
 blockReactive: true
-temperature: 5
+temperature: 10
 heatCapacity: 0
 explosiveness: 5
-viscosity: 2
+viscosity: 5
 details: "All-consuming."

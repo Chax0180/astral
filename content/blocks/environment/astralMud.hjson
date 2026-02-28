@@ -1,6 +1,7 @@
 type: Floor
 name: Astral Mud
 speedMultiplier: 0.7
+cacheLayer: astral-mud
 attributes: {
   astralMud: 1
   water: -1

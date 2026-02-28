@@ -4,12 +4,12 @@ description: A viscous, spreading fluid. Damages structures.
 color: 6df2c4
 colorFrom: 42bdb5
 colorTo: 2e9299
-maxSpread: 100
+maxSpread: 0
 spreadDamage: 1
 moveThroughBlocks: false
 blockReactive: true
 temperature: 5
 heatCapacity: 0
 explosiveness: 5
-viscosity: 0
+viscosity: 2
 details: "All-consuming."

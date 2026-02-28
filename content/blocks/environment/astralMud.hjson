@@ -3,4 +3,5 @@ name: Astral Mud
 speedMultiplier: 0.7
 attributes: {
   astralMud: 1
+  water: -1
 }

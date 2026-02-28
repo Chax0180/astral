@@ -2,8 +2,8 @@ type: CellLiquid
 name: Astral Spread
 description: A viscous, spreading fluid. Damages structures.
 color: 6df2c4
-colorFrom: 42bdb5
-colorTo: 2e9299
+colorFrom: 493955
+colorTo: 3b324d
 maxSpread: 0
 spreadDamage: 1
 moveThroughBlocks: false

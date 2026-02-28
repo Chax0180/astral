@@ -5,12 +5,12 @@ effect: astral-muddy
 color: 3b324d
 colorFrom: ed5d53
 colorTo: 493955
-maxSpread: 0
+maxSpread: 5
 spreadDamage: 0
 moveThroughBlocks: false
 blockReactive: false
 temperature: 0.2
 heatCapacity: 0
 explosiveness: 0
-viscosity: 1.1
+viscosity: 0.9
 details: "Be careful not to let it leak for too long."

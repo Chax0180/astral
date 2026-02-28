@@ -4,6 +4,6 @@ speedMultiplier: 0.5
 status: tarred
 statusDuration: 60
 isLiquid: true
-cacheLayer: arkycite
-albedo: 0.7
-liquidMultiplier: 0.6
+cacheLayer: water
+albedo: 0.98
+liquidMultiplier: 2

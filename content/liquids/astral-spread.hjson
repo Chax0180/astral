@@ -11,5 +11,5 @@ blockReactive: true
 temperature: 5
 heatCapacity: 0
 explosiveness: 5
-viscosity: 0.1
+viscosity: 0
 details: "All-consuming."

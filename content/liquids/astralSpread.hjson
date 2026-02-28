@@ -1,0 +1,16 @@
+type: CellLiquid
+name: Astral Mud
+description: A viscous, spreading fluid. Damages structures.
+effect: astral-muddy
+color: 6df2c4
+colorFrom: 42bdb5
+colorTo: 2e9299
+maxSpread: 0
+spreadDamage: 1
+moveThroughBlocks: false
+blockReactive: true
+temperature: 5
+heatCapacity: 0
+explosiveness: 5
+viscosity: 0.1
+details: "All-consuming."

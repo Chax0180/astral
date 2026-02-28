@@ -1,5 +1,5 @@
 type: CellLiquid
-name: Astral Mud
+name: Astral Spread
 description: A viscous, spreading fluid. Damages structures.
 effect: astral-muddy
 color: 6df2c4

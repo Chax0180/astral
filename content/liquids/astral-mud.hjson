@@ -1,6 +1,6 @@
 type: CellLiquid
 name: Astral Mud
-description: Dirt saturated with water. Must be filtered in order to extract said water. Changes colors when disturbed, and glows brightly when shocked.
+description: Dirt saturated with water. Must be filtered in order to extract said water.
 effect: astral-muddy
 color: 3b324d
 colorFrom: ed5d53
@@ -13,3 +13,4 @@ temperature: 0.2
 heatCapacity: 0
 explosiveness: 0
 viscosity: 1.1
+details: "Be careful not to let it leak for too long."

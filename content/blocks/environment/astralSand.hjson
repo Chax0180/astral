@@ -1,0 +1,8 @@
+type: Floor
+name: Astral Sand
+itemDrop: astral-sand
+playerUnmineable: true
+attributes: {
+  oil: 0.15
+  astral-sand: 0.5
+}

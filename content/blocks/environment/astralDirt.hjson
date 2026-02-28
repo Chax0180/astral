@@ -1,5 +1,5 @@
 type: Floor
 name: Astral Dirt
 attributes: {
-  water: 1.1
+  water: 0.25
 }

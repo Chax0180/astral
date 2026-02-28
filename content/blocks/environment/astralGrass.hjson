@@ -1,0 +1,5 @@
+type: Floor
+name: Astral Grass
+attributes: {
+  water: 0.6
+}

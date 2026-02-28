@@ -2,5 +2,5 @@ type: Floor
 name: Astral Mud
 speedMultiplier: 0.7
 attributes: {
-  water: 1
+  astralMud: 1
 }

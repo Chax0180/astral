@@ -1,0 +1,15 @@
+name: astral
+description:'''
+Adds a unique campaign based on the Astral Infection to Mindustry.
+'''
+author: Chax0180
+minGameVersion: 146
+version: I'm not going to remember to update this.
+displayName: "Astral"
+subtitle: "that was calamitous"
+repo: "Chax0180/astral"
+
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: false

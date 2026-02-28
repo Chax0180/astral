@@ -2,9 +2,9 @@ type: Liquid
 name: Astral Mud
 description: Dirt saturated with water. Must be filtered in order to extract said water.
 effect: astral-muddy
-color: dad2ca
-colorFrom: 493955
-colorTo: 3b324d
+color: 3b324d
+colorFrom: 6df2c4
+colorTo: ed5d53
 maxSpread: 0
 spreadDamage: 0
 moveThroughBlocks: false
@@ -12,4 +12,4 @@ blockReactive: false
 temperature: 0.8
 heatCapacity: 0
 explosiveness: 0
-viscosity: 0.8
+viscosity: 1.1

@@ -1,9 +1,0 @@
-type: Floor
-name: Astral Mud
-speedMultiplier: 0.5
-status: tarred
-statusDuration: 60
-isLiquid: true
-cacheLayer: water
-albedo: 0.98
-liquidMultiplier: 2

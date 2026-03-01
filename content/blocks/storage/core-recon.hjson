@@ -2,7 +2,7 @@ type: CoreBlock
 name: Core: Recon
 description: Core of the base. Unarmored, but stores a large amound of items. Once destroyed, the sector is lost.
 requirements: [
-  aluminume/2000
+  aluminum/2000
   iron/1250
   silicon/500
 ]

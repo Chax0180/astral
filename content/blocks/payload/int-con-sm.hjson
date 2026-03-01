@@ -1,0 +1,46 @@
+type: Constructor
+name: Small Integrant Constructor
+description: 
+" 
+Constructs integrants to be used in unit fabrication. Can construct the following:
+
+Basic:
+- Small Aluminum Wall
+- Small Iron Wall
+- Small Unit Chassis
+Moderate:
++ Linear Actuator
++ Small Servo
++ Portable Battery
+Complicated:
++ Plasma Mining Unit
++ Building Unit
++ Light Cannon
+"
+size: 2
+category: units
+requirements: [
+  aluminum/50
+  iron/30
+  silicon/20
+] 
+hasPower: true
+consumes: {
+  power: 0.25
+}
+buildSpeed: 0.8
+filter: [
+  aluminum-wall-small,
+  iron-wall-small,
+  sm-unit-chassis,
+  linear-actuator, 
+  sm-servo,
+  portable-battery, 
+  plasma-mining-unit,
+  building-unit,
+  light-cannon
+]
+research: small-assembler
+squareSprite: false
+researchCostMultiplier: 0.4
+maxBlockSize: 2

@@ -3,4 +3,4 @@ description: "A dull brownish metal. Can be made into more durable parts."
 hardness: 1.3
 alwaysUnlocked: true
 color: ffffff
-research: core-recon
+research: aluminum

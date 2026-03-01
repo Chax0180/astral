@@ -44,4 +44,4 @@ research: small-assembler
 squareSprite: false
 researchCostMultiplier: 0.4
 maxBlockSize: 2
-outRegion: factory-out-2-astral
+regionSuffix: -astral

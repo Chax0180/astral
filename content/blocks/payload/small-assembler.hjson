@@ -56,3 +56,4 @@ consumes: {
 }
 areaSize: 4
 researchCostMultiplier: 0.6
+regionSuffix: -astral

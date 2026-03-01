@@ -1,5 +1,5 @@
 type: Wall
-name: Small Servo
+name: Motion Core
 description: Provides configurable rotation.
 size: 2
 customShadow: true

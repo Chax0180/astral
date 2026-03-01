@@ -1,0 +1,11 @@
+type: Wall
+name: Small Unit Chassis
+description: A hollow shell used for housing fragile components and protecting against the elements.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  aluminum/12
+  iron/8
+]
+research: int-com-sm

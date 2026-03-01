@@ -1,0 +1,6 @@
+name: Aluminum
+description: "A flimsy, yet abundant, lightweight metal. Makes for a great structural support material."
+hardness: 0.6
+alwaysUnlocked: true
+color: ffffff
+research: core-recon

@@ -1,6 +1,6 @@
 type: UnitAssembler
 name: Small Assembler
-description: Creates basic units by attaching integrals to a unit chassis.
+description: Creates basic units by attaching integrals to a small unit chassis.
 size: 2
 category: units
 droneType: poly
@@ -11,17 +11,44 @@ requirements:[
   silicon/60
 ]
 plans:[
-  {
+{
     type: AssemblerUnitPlan
-    unit: builder
+    unit: technician
     requirements: [
-      aluminum-wall-small/1
       small-unit-chassis/1
       linear-actuator/2
       small-servo/4
+      plasma-mining-unit/1
+      building-unit/1
+      portable-battery/1
     ]
     time: 900
-  }
+}
+{
+    type: AssemblerUnitPlan
+    unit: trooper
+    requirements: [
+      iron-wall-small/2
+      small-unit-chassis/1
+      linear-actuator/4
+      small-servo/8
+      light-cannon/2
+      portable-battery/2
+    ]
+    time: 900
+}
+{
+    type: AssemblerUnitPlan
+    unit: bulwark
+    requirements: [
+      iron-wall-small/4
+      small-unit-chassis/1
+      linear-actuator/4
+      small-servo/8
+      portable-battery/3
+    ]
+    time: 900
+}
 ]
 squareSprite: false
 consumes: {

@@ -1,8 +1,8 @@
 type: PayloadConveyor
 name: Small Payload Conveyor
 size: 2
-moveTime: 1
-moveForce: 5
+moveTime: 30
+moveForce: 10
 payloadLimit: 2
 
 description: Moves small payloads.

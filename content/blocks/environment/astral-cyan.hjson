@@ -1,0 +1,7 @@
+type: Floor
+name: Cyan Crystal Floor
+itemDrop: cyan-astral-crystal
+playerUnmineable: true
+attributes: {
+cyan-astral-crystal: 0.1
+}

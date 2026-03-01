@@ -17,7 +17,7 @@ plans:[
     requirements: [
       small-unit-chassis/1
       linear-actuator/2
-      small-servo/4
+      motion-core/1
       plasma-mining-unit/1
       building-unit/1
       portable-battery/1
@@ -31,7 +31,7 @@ plans:[
       iron-wall-small/2
       small-unit-chassis/1
       linear-actuator/4
-      small-servo/8
+      motion-core/2
       light-cannon/2
       portable-battery/2
     ]
@@ -44,7 +44,7 @@ plans:[
       iron-wall-small/4
       small-unit-chassis/1
       linear-actuator/4
-      small-servo/8
+      motion-core/2
       portable-battery/3
     ]
     time: 900

@@ -15,7 +15,7 @@ plans:[
     type: AssemblerUnitPlan
     unit: technician
     requirements: [
-      small-unit-chassis/1
+      sm-unit-chassis/1
       linear-actuator/2
       motion-core/1
       plasma-mining-unit/1
@@ -29,7 +29,7 @@ plans:[
     unit: trooper
     requirements: [
       iron-wall-small/2
-      small-unit-chassis/1
+      sm-unit-chassis/1
       linear-actuator/4
       motion-core/2
       light-cannon/2
@@ -42,7 +42,7 @@ plans:[
     unit: bulwark
     requirements: [
       iron-wall-small/4
-      small-unit-chassis/1
+      sm-unit-chassis/1
       linear-actuator/4
       motion-core/2
       portable-battery/3

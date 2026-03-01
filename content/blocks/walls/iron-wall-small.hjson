@@ -2,6 +2,7 @@ type: Wall
 name: Iron Wall
 description: A cube of iron. Can be machined into durable unit parts within assemblers. Serves moderate defensive purpose, however steel is a better material for this purpose.
 size: 1
+health: 480
 requirements: [
   aluminum/6
 ]

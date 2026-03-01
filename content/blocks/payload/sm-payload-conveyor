@@ -1,0 +1,18 @@
+type: PayloadConveyor
+name: Small Payload Conveyor
+size: 2
+moveTime: 1
+moveForce: 5
+payloadLimit: 2
+
+description: Moves small payloads.
+
+health: 320
+
+requirements: [
+aluminum/12
+silicon/5
+]
+
+category: units
+research:int-con-sm

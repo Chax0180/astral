@@ -1,6 +1,6 @@
 type: Wall
 name: Linear Actuator
-description: A smaller equivalent of a hydraulic, powered by rotation instead of fluid pressure. Works in tandem with servos to give movement to smaller, legged units.
+description: A smaller equivalent of a hydraulic, powered by rotation instead of fluid pressure. Works in tandem with motion cores to give movement to smaller, legged units.
 size: 2
 customShadow: true
 placeablePlayer: false

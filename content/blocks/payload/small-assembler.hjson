@@ -3,7 +3,7 @@ name: Small Assembler
 description: Creates basic units by attaching integrals to a small unit chassis.
 size: 2
 category: units
-droneType: poly
+droneType: microconstructor
 research: core-recon
 requirements:[
   aluminum/100

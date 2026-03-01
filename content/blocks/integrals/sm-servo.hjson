@@ -7,5 +7,6 @@ placeablePlayer: false
 requirements: [
   iron/10
   copper/8
+  silicon/6
 ]
 research: int-com-sm

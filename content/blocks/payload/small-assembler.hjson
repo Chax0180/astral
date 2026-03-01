@@ -15,12 +15,12 @@ plans:[
     type: AssemblerUnitPlan
     unit: technician
     requirements: [
-      sm-unit-chassis/1
-      linear-actuator/2
-      motion-core/1
-      plasma-mining-unit/1
-      building-unit/1
-      portable-battery/1
+      astral-sm-unit-chassis/1
+      astral-linear-actuator/2
+      astral-motion-core/1
+      astral-plasma-mining-unit/1
+      astral-building-unit/1
+      astral-portable-battery/1
     ]
     time: 900
 }
@@ -28,12 +28,12 @@ plans:[
     type: AssemblerUnitPlan
     unit: trooper
     requirements: [
-      iron-wall-small/2
-      sm-unit-chassis/1
-      linear-actuator/4
-      motion-core/2
-      light-cannon/2
-      portable-battery/2
+      astral-iron-wall-small/2
+      astral-sm-unit-chassis/1
+      astral-linear-actuator/4
+      astral-motion-core/2
+      astral-light-cannon/2
+      astral-portable-battery/2
     ]
     time: 900
 }
@@ -41,11 +41,11 @@ plans:[
     type: AssemblerUnitPlan
     unit: bulwark
     requirements: [
-      iron-wall-small/4
-      sm-unit-chassis/1
-      linear-actuator/4
-      motion-core/2
-      portable-battery/3
+      astral-iron-wall-small/4
+      astral-sm-unit-chassis/1
+      astral-linear-actuator/4
+      astral-motion-core/2
+      astral-portable-battery/3
     ]
     time: 900
 }

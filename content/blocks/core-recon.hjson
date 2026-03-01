@@ -1,0 +1,17 @@
+type: CoreBlock
+name: Core: Recon
+description: Core of the base. Unarmored, but stores a large amound of items. Once destroyed, the sector is lost.
+requirements: [
+  aluminume/2000
+  iron/1250
+  silicon/500
+]
+isFirstTier: true
+size: 3
+squareSprite: false
+alwaysUnlocked: true
+unitType: poly
+health: 100
+itemCapacity: 3000
+unitCapModifier: 5
+category: effect

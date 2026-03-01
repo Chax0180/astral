@@ -1,0 +1,8 @@
+type: Wall
+name: Aluminum Wall
+description: A cube of aluminum. Can be machined into moderately fragile unit parts within assemblers. Serves little defensive purpose.
+size: 1
+requirements: [
+  aluminum/6
+]
+research: core-recon

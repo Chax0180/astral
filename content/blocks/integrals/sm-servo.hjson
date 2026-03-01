@@ -1,0 +1,11 @@
+type: Wall
+name: Small Servo
+description: Provides configurable rotation.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  iron/10
+  copper/8
+]
+research: int-com-sm

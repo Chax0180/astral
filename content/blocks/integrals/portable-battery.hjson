@@ -1,0 +1,11 @@
+type: Wall
+name: Portable Battery
+description: A modular battery used to power all units.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  iron/2
+  copper/8
+]
+research: int-com-sm

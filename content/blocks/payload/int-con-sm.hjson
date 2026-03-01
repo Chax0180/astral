@@ -10,7 +10,7 @@ Basic:
 - Small Unit Chassis
 Moderate:
 + Linear Actuator
-+ Small Servo
++ Motion Core
 + Portable Battery
 Complicated:
 + Plasma Mining Unit
@@ -34,7 +34,7 @@ filter: [
   iron-wall-small,
   sm-unit-chassis,
   linear-actuator, 
-  sm-servo,
+  motion-core,
   portable-battery, 
   plasma-mining-unit,
   building-unit,

@@ -2,7 +2,7 @@ type: Constructor
 name: Small Integrant Constructor
 description: 
 " 
-Constructs integrants to be used in unit fabrication. Can construct the following:
+Constructs integrals to be used in unit fabrication. Can construct the following:
 
 Basic:
 - Small Aluminum Wall

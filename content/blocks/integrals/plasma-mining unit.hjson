@@ -1,0 +1,12 @@
+type: Wall
+name: Small Unit Chassis
+description: Uses plasma to produce a moderately powerful laser beam. Primarily used for mining, but could be weaponized easily.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  aluminum/20
+  iron/12
+  copper/10
+]
+research: int-com-sm

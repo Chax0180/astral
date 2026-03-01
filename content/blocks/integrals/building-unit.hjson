@@ -1,0 +1,12 @@
+type: Wall
+name: Building Unit
+description: Uses hard-light to print structures using stored materials. Capable of projecting a rudimentary shield.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  iron/8
+  copper/20
+  silicon/10
+]
+research: int-com-sm

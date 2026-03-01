@@ -1,0 +1,11 @@
+type: Wall
+name: Small Unit Chassis
+description: A small weapon. Fires a single projectile at a time, dealing moderate damage.
+size: 2
+customShadow: true
+placeablePlayer: false
+requirements: [
+  iron/28
+  silicon/4
+]
+research: int-com-sm

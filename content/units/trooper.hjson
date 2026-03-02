@@ -1,0 +1,52 @@
+type: legs
+name: Trooper
+description: Fires bullets at enemy targets.
+speed: 0.5
+health: 170
+controller: HugAI
+commands: [move, assist]
+armor: 2
+flying: false
+legExtension: 2
+legMoveSpace: 0.9
+hovering: false
+isEnemy: false
+legCount: 4
+legLength: 10
+legSpeed: 0.3
+legForwardScl: 0.6
+itemCapacity: 0
+outlineColor: 2f2d39
+hitSize: 10
+research: {
+  parent: small-assembler
+  objectives: [
+    aap-lv1
+  ]
+}
+  weapons: [
+    {
+      x: 3
+      y: -2
+        name: light-weapon
+        recoil: 0.5
+        reload: 30
+        rotate: true
+        angle: 45
+        mirror: true
+        alternate: true
+          bullet: {
+          type: BasicBulletType
+          speed: 4
+          lifetime: 45
+          damage: 22
+          pierce: true
+          pierceCap: 2
+          width: 6
+          height: 11
+          trailEffect: disperseTrail
+          trailInterval: 3
+          trailRotation: true
+        }
+    }
+]

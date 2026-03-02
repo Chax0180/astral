@@ -1,11 +1,12 @@
 type: mech
 name: Technician
-description: Casts a large shield bubble to protect allies.
-speed: 0.5
-health: 170
-commands: [move]
+description: Builds structures and mines.
+speed: 0.75
+health: 120
+commands: [move, repair, rebuild, assist, mine]
 armor: 2
 flying: false
+canBoost: true
 itemCapacity: 0
 outlineColor: 2f2d39
 hitSize: 10

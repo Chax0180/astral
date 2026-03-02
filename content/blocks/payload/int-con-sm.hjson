@@ -45,3 +45,4 @@ squareSprite: false
 researchCostMultiplier: 0.4
 maxBlockSize: 2
 regionSuffix: -astral
+conductivePower: true

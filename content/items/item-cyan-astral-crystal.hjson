@@ -1,6 +1,6 @@
-name: Cyan Astral Crystal
-description: "A dense, mineral rich crystal. Can be broken down into trace metals."
-hardness: 3.5
+name: Astraal Ore
+description: "A heavy, rich metal. Can be broken down into astral crystals, or used on its own."
+hardness: 5
 alwaysUnlocked: true
 color: 42bdb5
 research: core-recon

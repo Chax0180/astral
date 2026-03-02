@@ -1,7 +1,7 @@
 type: Floor
 name: Orange Crystal Floor
-itemDrop: orange-astral-crystal
+itemDrop: orange-crystal
 playerUnmineable: true
 attributes: {
-orange-astral-crystal: -0.35
+orange-crystal: -0.35
 }

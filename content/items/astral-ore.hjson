@@ -1,6 +1,6 @@
 name: Astral Ore
 description: "A heavy, rich metal. Can be broken down into astral crystals, or used on its own."
-hardness: 9
+hardness: 4
 alwaysUnlocked: true
 color: a66e9a
 research: ferrosilicon

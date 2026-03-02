@@ -1,6 +1,5 @@
 name: Aluminum
 description: "A flimsy, yet abundant, lightweight metal. Makes for a great structural support material."
-hardness: 0
 alwaysUnlocked: true
 color: b0bac0
 research: core-recon

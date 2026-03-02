@@ -24,3 +24,15 @@ research: {
     aap-lv2
   ]
 }
+abilities: [
+  {
+    type: ShieldArcAbility
+    max: 600
+    cooldown: 300
+    regen: 0.5
+    angle: 360
+    whenShooting: false
+    width: 8
+    radius: 45
+  }
+]

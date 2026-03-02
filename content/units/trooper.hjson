@@ -3,7 +3,6 @@ name: Trooper
 description: Fires bullets at enemy targets.
 speed: 0.5
 health: 170
-controller: HugAI
 commands: [move, assist]
 armor: 2
 flying: false
@@ -28,7 +27,7 @@ research: {
     {
       x: 3
       y: -2
-        name: light-weapon
+        name: trooper-weapon
         recoil: 0.5
         reload: 30
         rotate: true

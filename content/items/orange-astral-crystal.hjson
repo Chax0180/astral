@@ -1,6 +1,6 @@
 name: Orange Astral Crystal
 description: "A mineral rich crystal. Can be broken down into trace metals. Rich with iron."
-hardness: 1.5
+hardness: 1
 alwaysUnlocked: true
 color: ed5d53
 research: core-recon

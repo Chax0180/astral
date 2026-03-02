@@ -25,21 +25,20 @@ research: {
 }
   weapons: [
     {
-      x: 5
+      x: 6
       y: 1
         name: trooper-weapon
         top: false
-        recoil: 0.5
+        recoil: 2
         reload: 30
-        rotate: true
-        angle: 45
+        rotate: false
         mirror: true
         alternate: true
           bullet: {
           type: BasicBulletType
-          speed: 4
-          lifetime: 45
-          damage: 22
+          speed: 6
+          lifetime: 30
+          damage: 16
           pierce: true
           pierceCap: 2
           width: 6

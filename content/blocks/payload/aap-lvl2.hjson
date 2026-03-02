@@ -1,0 +1,16 @@
+type: UnitAssemblerModule
+name: "Access Port (Special)"
+description: Changes the output unit of an attached assembler, and serves as a access port.
+size: 2
+category: units
+research: small-assembler
+requirements: [
+  aluminum/20
+  silicon/10
+  iron/10
+]
+consumes: {
+  power: 0.1
+}
+researchCostMultiplier: 0.3
+tier: 1

@@ -16,3 +16,4 @@ silicon/5
 
 category: units
 research:small-assembler
+conductivePower: true

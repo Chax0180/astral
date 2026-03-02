@@ -4,7 +4,7 @@ description: A cube of iron. Can be machined into durable unit parts within asse
 size: 1
 health: 440
 requirements: [
-  aluminum/6
+  iron/6
 ]
 research: aluminum-wall-small
 category: defense

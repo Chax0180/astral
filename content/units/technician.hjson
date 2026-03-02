@@ -1,5 +1,5 @@
 type: mech
-name: Bulwark
+name: Technician
 description: Casts a large shield bubble to protect allies.
 speed: 0.5
 health: 170

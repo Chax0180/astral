@@ -1,0 +1,4 @@
+type: OreBlock
+name: Astral Ore
+itemDrop: astral-ore
+variants: 6

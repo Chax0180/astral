@@ -1,3 +1,4 @@
 type: OreBlock
 name: Astral Ore
 itemDrop: astral-ore
+color: a66e9a

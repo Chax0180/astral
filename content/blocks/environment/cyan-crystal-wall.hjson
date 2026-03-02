@@ -1,6 +1,6 @@
 type: StaticWall
-name: Astral Cyan Wall
+name: Cyan Crystal Wall
 description: "Moderately impure cyan astral crystal. Extremely dense."
 attributes: {
-  cyan-astral-crystal: 0.2
+  cyan-crystal: 0.2
 }

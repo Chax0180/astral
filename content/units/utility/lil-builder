@@ -1,0 +1,19 @@
+type: tether
+name: "Li'l Builder"
+flying: true
+speed: 1
+health: 80
+engineSize: 1.5
+engineOffset: 2
+payloadCapacity: 0
+targetable: false
+bounded: false
+outlineColor: 2f2d39
+isEnemy: false
+hidden: true
+useUnitCap: false
+logicControllable: false
+playerControllable: false
+allowedInPayloads: false
+createWreck: false
+controller: AssemblerAI

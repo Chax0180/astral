@@ -7,13 +7,14 @@ commands: [move, repair, rebuild, assist, mine]
 armor: 2
 flying: false
 canBoost: true
-engineOffset: -1
+engineOffset: 1
 buildSpeed: 1
 mineItems: [aluminum, iron, astral-ore]
 mineWalls: true
 mineFloor: true
 itemCapacity: 0
 outlineColor: 2f2d39
+mechLegColor: 2f2d39
 hitSize: 10
 research: {
   parent: small-assembler

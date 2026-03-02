@@ -1,6 +1,6 @@
 name: Cyan Astral Crystal
 description: "Dense blue crystal. Can be broken down into trace metals. Contains aluminum."
-hardness: 3.5
+hardness: 4
 alwaysUnlocked: true
 color: 42bdb5
 research: core-recon

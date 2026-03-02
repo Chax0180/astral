@@ -1,5 +1,5 @@
 type: Wall
-name: Small Unit Chassis
+name: Light Cannon
 description: A small weapon. Fires a single projectile at a time, dealing moderate damage.
 size: 2
 customShadow: true

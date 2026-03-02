@@ -1,8 +1,8 @@
 type: Floor
 name: Cyan Crystal Floor
-itemDrop: item-cyan-astral-crystal
+itemDrop: cyan-astral-crystal
 playerUnmineable: true
 attributes: {
-item-cyan-astral-crystal: -0.5
+cyan-astral-crystal: -0.5
 }
 variants: 1

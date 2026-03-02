@@ -1,0 +1,15 @@
+type: UnitAssemblerModule
+name: "Access Port (Inert)"
+description: An essential component to any assembler setup. Serves as an input point, but does not change the output unit.
+size: 2
+category: units
+research: small-assembler
+requirements: [
+  aluminum/20
+  silicon/10
+  iron/10
+]
+consumes: {
+  power: 0.1
+}
+researchCostMultiplier: 0.3

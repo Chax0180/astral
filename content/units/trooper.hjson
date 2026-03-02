@@ -26,20 +26,19 @@ research: {
 }
   weapons: [
     {
-      top: false
       x: 3
       y: -2
-      name: light-weapon
-      recoil: 0.5
+        name: light-weapon
+        recoil: 0.5
         reload: 30
         rotate: true
+        angle: 45
         mirror: true
         alternate: true
-        bullet: {
+          bullet: {
           type: BasicBulletType
           speed: 4
-          lifetime: 32
-          pierce: false
+          lifetime: 45
           damage: 22
           pierce: true
           pierceCap: 2

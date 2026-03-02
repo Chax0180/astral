@@ -25,9 +25,10 @@ research: {
 }
   weapons: [
     {
-      x: 3
-      y: -2
+      x: 5
+      y: 1
         name: trooper-weapon
+        top: false
         recoil: 0.5
         reload: 30
         rotate: true

@@ -2,5 +2,5 @@ type: StaticWall
 name: Astral Orange Wall
 description: "Pure, dense orange astral crystal."
 attributes: {
-  item-orange-astral-crystal: 0.4
+  orange-astral-crystal: 0.4
 }

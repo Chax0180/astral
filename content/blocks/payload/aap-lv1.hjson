@@ -1,6 +1,6 @@
 type: UnitAssemblerModule
 name: "Access Port (Assault)"
-description: Changes the output unit of an attached assembler to assault, and serves as a access port.
+description: Changes the output unit of an attached assembler, and serves as a access port.
 size: 2
 category: units
 research: small-assembler

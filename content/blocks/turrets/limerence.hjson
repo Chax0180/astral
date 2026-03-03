@@ -7,7 +7,7 @@ maxAmmo: 3
 shootSound: blockExplodeElectricBig
 reload: 900
 cooldownTime: 300
-rotateSpeed: 0.1
+rotateSpeed: 0.25
 requirements: [
 copper/1
 ]
@@ -99,12 +99,13 @@ drawer: {
   parts: [
     {
       type: RegionPart
-      suffix: -blade
+      suffix: -cover
       mirror: true
       under: false
       progress: warmup
-        moveY: -1
-        moveX: 1
+        moveY: -5
+        moveX: 5
+        rotate: 10
     }
     {
       type: RegionPart

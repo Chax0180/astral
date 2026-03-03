@@ -2,7 +2,7 @@ type: legs
 name: Bulwark
 description: Casts a large shield bubble to protect allies.
 speed: 0.5
-health: 170
+health: 200
 controller: HugAI
 commands: [move, assist]
 armor: 2

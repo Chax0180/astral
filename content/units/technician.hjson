@@ -11,7 +11,7 @@ buildSpeed: 1
 mineItems: [aluminum, iron, astral-ore]
 mineWalls: true
 mineFloor: true
-itemCapacity: 0
+itemCapacity: 30
 outlineColor: 2f2d39
 mechLegColor: 2f2d39
 hitSize: 10

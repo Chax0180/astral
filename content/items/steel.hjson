@@ -1,0 +1,5 @@
+name: Steel
+description: "A highly durable alloy. Useful in all sorts of purposes."
+alwaysUnlocked: true
+color: 767a84
+research: iron

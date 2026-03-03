@@ -1,0 +1,15 @@
+type: Drill
+name: Augur
+description: A more advanced drill capable of mining cyan astral crystal.
+hasLiquids: false
+size: 2
+itemCapacity: 10
+tier: 2
+drillTime: 180
+requirements: [
+aluminum/30
+silicon/40
+steel/20
+]
+category: production
+research: core-recon

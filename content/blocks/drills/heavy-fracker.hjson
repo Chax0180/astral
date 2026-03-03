@@ -16,16 +16,17 @@ researchCostMultiplier: 0.5
 drillEffect: {
   type: WaveEffect
   sizeFrom: 0
-  sizeTo: 35
-  strokeFrom: 3
+  sizeTo: 25
+  strokeFrom: 8
   strokeTo: 0
-  colorFrom: 6df2c4
-  colorTo: ed5d53
-  lifetime: 60
+  colorFrom: baa4c8
+  colorTo: 6d6382
+  lifetime: 45
   interp: circleOut
 }
 consumes: {
   power: 1.2
+  liquid: water/0.2
 }
 requirements: [
   steel/100

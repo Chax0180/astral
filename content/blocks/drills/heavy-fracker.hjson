@@ -22,6 +22,7 @@ drillEffect: {
   colorFrom: 6df2c4
   colorTo: ed5d53
   lifetime: 60
+  interp: circleOut
 }
 consumes: {
   power: 1.2

@@ -1,6 +1,6 @@
 type: mech
 name: Operator
-description: Builds and defends the Recon core.
+description: Builds and defends Recon cores.
 speed: 1.5
 health: 100
 flying: false

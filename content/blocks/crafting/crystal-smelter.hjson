@@ -25,3 +25,18 @@ power: 0.6
 research: core-recon
 ambientSound: loopSmelter
 ambientSoundVolume: 0.1
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawCrucibleFlame
+    }
+    {
+      type: DrawDefault
+    }
+]
+}

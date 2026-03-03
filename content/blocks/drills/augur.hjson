@@ -1,6 +1,6 @@
 type: Drill
 name: Augur
-description: A more advanced drill capable of mining cyan astral crystal.
+description: A more advanced drill capable of mining cyan crystal.
 hasLiquids: false
 size: 2
 itemCapacity: 10

@@ -45,7 +45,7 @@ plans:[
       astral-sm-unit-chassis/1
       astral-linear-actuator/4
       astral-motion-core/2
-      stral-building-unit/2
+      astral-building-unit/2
       astral-portable-battery/3
     ]
     time: 900

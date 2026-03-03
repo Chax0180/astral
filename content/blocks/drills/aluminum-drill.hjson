@@ -1,0 +1,12 @@
+type: Drill
+hasLiquids: false
+size: 2
+itemCapacity: 10
+tier: 1
+drillTime: 240
+liquidBoostIntensity: 0.5
+requirements: [
+aluminum/30
+]
+category: production
+research: core-recon

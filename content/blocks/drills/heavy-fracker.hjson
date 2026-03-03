@@ -8,10 +8,6 @@ drillTime: 180
 hasLiquids: true
 tier: 4
 shake: 2
-drillMultipliers: {
-  01a-11-item-barite: 0.5
-  01a-09-item-obsidian: 0.75
-}
 blockedItem: astral-sand
 arrows: 1
 squareSprite: false

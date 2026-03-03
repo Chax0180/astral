@@ -7,7 +7,7 @@ itemCapacity: 10
 tier: 2
 drillTime: 180
 requirements: [
-aluminum/30
+aluminum/15
 silicon/40
 steel/20
 ]

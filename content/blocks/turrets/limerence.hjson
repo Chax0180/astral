@@ -20,7 +20,7 @@ consumes: [
 power/120
 liquid: water/2
 ]
-range: 1000
+range: 1250
 
 ammoTypes: {
     copper: {
@@ -43,13 +43,53 @@ ammoTypes: {
     buildingDamageMultiplier: 0.1
           sprite: missile-large
   smokeEffect: {
+    type: ParticleEffect
+    particles: 30
+    length: 300
+    lifetime: 180
+    interp: circleOut
+    cone: 15
+    colorFrom: 6df2c4
+    colorTo: 206f85
+    sizeFrom: 10
+    sizeTo: 0
   }
 trailEffect: {
+    type: ParticleEffect
+    particles: 5
+    length: 100
+    lifetime: 180
+    interp: circleOut
+    cone: 15
+    colorFrom: 6df2c4
+    colorTo: 206f85
+    sizeFrom: 10
+    sizeTo: 0
   }
-trailInterval: 3
+trailInterval: 1
 hitEffect:{
+    type: ParticleEffect
+    particles: 30
+    length: 100
+    lifetime: 180
+    interp: circleOut
+    cone: 25
+    colorFrom: 6df2c4
+    colorTo: 206f85
+    sizeFrom: 10
+    sizeTo: 0
   }
 despawnEffect:{
+    type: ParticleEffect
+    particles: 15
+    length: 100
+    lifetime: 180
+    interp: circleOut
+    cone: 5
+    colorFrom: 6df2c4
+    colorTo: 206f85
+    sizeFrom: 10
+    sizeTo: 0
   }
 }
 }

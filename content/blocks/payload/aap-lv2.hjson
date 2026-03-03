@@ -1,6 +1,6 @@
 type: UnitAssemblerModule
-name: "Access Port (Special)"
-description: Changes the output unit of an attached assembler, and serves as a access port.
+name: "Assembler Access Port (Special)"
+description: Changes the output unit of an attached assembler, and serves as a access port. Requires an assault access port attached to the same assembler to function.
 size: 2
 category: units
 research: small-assembler

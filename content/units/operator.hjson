@@ -35,6 +35,7 @@ research: {
           speed: 6
           lifetime: 30
           damage: 16
+          buildingDamageMultiplier: 0.01
           pierce: true
           pierceCap: 2
           width: 6

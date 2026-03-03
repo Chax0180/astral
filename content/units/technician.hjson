@@ -8,7 +8,7 @@ armor: 2
 flying: false
 canBoost: true
 buildSpeed: 1
-mineItems: [aluminum, iron, astral-ore]
+mineItems: [aluminum, iron]
 mineWalls: true
 mineFloor: true
 itemCapacity: 30

@@ -4,7 +4,7 @@ description: Utilizes large explosions to break up ores. Capable of mining astra
 size: 3
 category: production
 research: augur
-drillTime: 180
+drillTime: 300
 hasLiquids: true
 tier: 4
 shake: 2
@@ -33,3 +33,7 @@ requirements: [
   silicon/60
   aluminum/100
 ]
+drillMultipliers: {
+  cyan-crystal: 0.8
+  astral-ore: 0.55
+}

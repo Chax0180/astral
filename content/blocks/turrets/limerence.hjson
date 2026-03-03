@@ -111,8 +111,6 @@ drawer: {
       suffix: -main
       under: false
       mirror: false
-      ]
     }
   ]
-
 }

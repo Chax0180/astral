@@ -3,7 +3,7 @@ name: Limerence
 description: Fires massive railgun charges at enemy targets. Rotates extremely slow and requires time to charge up, but deals massive damage.
 size: 5
 health: 9850
-maxAmmo: 1
+maxAmmo: 3
 shootSound: blockExplodeElectricBig
 reload: 900
 cooldownTime: 300
@@ -34,7 +34,7 @@ ammoTypes: {
       despawnSound: explosionAfflict
       hitSound: explosionAfflict
       removeAfterPierce: false
-      ammoPerItem: 0.1
+    ammoMultiplier: 10
       lifetime: 120
       width: 15
       height: 21

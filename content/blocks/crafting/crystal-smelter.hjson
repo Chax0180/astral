@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Crystal Smelter
-description: Melts and separates orange crystal into iron and a small amount of silicon.
+description: Melts and separates orange crystal into iron, aluminum, and a small amount of silicon.
 size: 3
 health: 465
 craftTime:150
@@ -8,7 +8,8 @@ squareSprite: false
 craftEffect: smeltsmoke
 itemCapacity: 30
 outputItems: [
-  iron/10
+  iron/6
+  aluminum/4
   silicon/2
 ]
 requirements:[
@@ -18,7 +19,7 @@ iron/80
 consumes: {
 power: 0.6
   items: [
-    orange-crystal/15
+    orange-crystal/12
   ]
 }
 research: core-recon

@@ -6,6 +6,7 @@ health: 465
 craftTime:150
 squareSprite: false
 craftEffect: smeltsmoke
+itemCapacity: 30
 outputItems: [
   iron/10
   silicon/2

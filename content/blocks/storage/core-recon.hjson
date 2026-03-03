@@ -10,7 +10,7 @@ isFirstTier: true
 size: 3
 squareSprite: false
 alwaysUnlocked: true
-unitType: technician
+unitType: operator
 health: 100
 itemCapacity: 3000
 unitCapModifier: 5

@@ -1,0 +1,83 @@
+type: ItemTurret
+name: Limerence
+description: Fires massive railgun charges at enemy targets. Rotates extremely slow and requires time to charge up, but deals massive damage.
+size: 5
+health: 9850
+maxAmmo: 1
+shootSound: blockExplodeElectricBig
+reload: 900
+cooldownTime: 300
+rotateSpeed: 0.1
+requirements: [
+copper/1
+]
+category: turret
+outlineColor: 2f2d39
+shoot: {
+firstShotDelay: 300
+}
+consumes: [
+power/120
+liquid: water/2
+]
+range: 395
+
+ammoTypes: {
+    copper: {
+      type: BasicBulletType
+      speed: 20
+      damage: 8700
+      pierce: true
+      pierceBuilding: false
+      pierceCap: 4
+      armorMultiplier: 0.2
+      despawnSound: explosionAfflict
+      hitSound: explosionAfflict
+      removeAfterPierce: false
+      
+      lifetime: 120
+      width: 15
+      height: 21
+      frontColor: 6df2c4
+      backColor: 2e9299
+    buildingDamageMultiplier: 0.1
+          sprite: missile-large
+  smokeEffect: {
+  }
+trailEffect: {
+  }
+trailInterval: 3
+hitEffect:{
+  }
+despawnEffect:{
+  }
+}
+drawer: {
+  type: DrawTurret
+  basePrefix: reinforced
+  parts: [
+    {
+      type: RegionPart
+      suffix: -barrel
+      under: false
+      mirror: false
+      progress: recoil
+      moves: [
+        {
+          type: PartMove
+          progress: recoil
+          y: -3
+        }
+      ]
+    }
+    {
+      type: RegionPart
+      suffix: -blade
+      mirror: true
+      under: false
+      progress: warmup
+        moveY: -1
+        moveX: 1
+    }
+  ]
+}

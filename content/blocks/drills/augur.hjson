@@ -5,7 +5,7 @@ hasLiquids: false
 size: 2
 itemCapacity: 10
 tier: 2
-drillTime: 180
+drillTime: 150
 requirements: [
 aluminum/15
 silicon/40

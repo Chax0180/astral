@@ -22,3 +22,5 @@ power: 0.6
   ]
 }
 research: core-recon
+ambientSound: loopSmelter
+ambientSoundVolume: 0.1

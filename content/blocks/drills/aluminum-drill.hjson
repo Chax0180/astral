@@ -1,4 +1,6 @@
 type: Drill
+name: Aluminum Drill
+description: Mines basic ores.
 hasLiquids: false
 size: 2
 itemCapacity: 10

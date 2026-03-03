@@ -6,7 +6,7 @@ health: 100
 flying: false
 canBoost: true
 buildSpeed: 1
-mineItems: [aluminum, iron, astral-ore]
+mineItems: [aluminum, iron]
 mineWalls: true
 mineFloor: true
 itemCapacity: 30
@@ -19,3 +19,29 @@ research: {
     small-assembler
   ]
 }
+  weapons: [
+    {
+      x: 6
+      y: 1
+        name: operator-weapon
+        top: false
+        recoil: 2
+        reload: 15
+        rotate: false
+        mirror: false
+        alternate: true
+          bullet: {
+          type: BasicBulletType
+          speed: 6
+          lifetime: 30
+          damage: 16
+          pierce: true
+          pierceCap: 2
+          width: 6
+          height: 7
+          trailEffect: disperseTrail
+          trailInterval: 3
+          trailRotation: true
+        }
+    }
+]

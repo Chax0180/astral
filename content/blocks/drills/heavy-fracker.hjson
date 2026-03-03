@@ -38,3 +38,4 @@ drillMultipliers: {
   cyan-crystal: 0.8
   astral-ore: 0.55
 }
+drillSound: explosionDull

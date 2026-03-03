@@ -6,12 +6,12 @@ health: 465
 squareSprite: false
 craftEffect: smeltsmoke
 outputItems: [
-  iron/8
+  iron/10
   silicon/2
 ]
 consumes: {
+power: 0.6
   items: [
     orange-crystal/15
   ]
-power/0.6
 }

@@ -34,7 +34,7 @@ ammoTypes: {
       despawnSound: explosionAfflict
       hitSound: explosionAfflict
       removeAfterPierce: false
-    ammoMultiplier: 0.1
+    ammoMultiplier: 1
       lifetime: 120
       width: 15
       height: 21

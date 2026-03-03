@@ -52,6 +52,7 @@ hitEffect:{
 despawnEffect:{
   }
 }
+}
 drawer: {
   type: DrawTurret
   basePrefix: reinforced
@@ -80,5 +81,4 @@ drawer: {
         moveX: 1
     }
   ]
-}
 }

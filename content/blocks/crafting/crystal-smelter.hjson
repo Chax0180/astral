@@ -3,11 +3,16 @@ name: Crystal Smelter
 description: Melts and separates orange crystal into iron and a small amount of silicon.
 size: 3
 health: 465
+caftTime:150
 squareSprite: false
 craftEffect: smeltsmoke
 outputItems: [
   iron/10
   silicon/2
+]
+requires:[
+aluminum/40
+iron/80
 ]
 consumes: {
 power: 0.6

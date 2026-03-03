@@ -1,0 +1,21 @@
+type: mech
+name: Operator
+description: Builds and defends the Recon core.
+speed: 1.5
+health: 100
+flying: false
+canBoost: true
+buildSpeed: 1
+mineItems: [aluminum, iron, astral-ore]
+mineWalls: true
+mineFloor: true
+itemCapacity: 30
+outlineColor: 2f2d39
+mechLegColor: 2f2d39
+hitSize: 10
+research: {
+  parent: small-assembler
+  objectives: [
+    small-assembler
+  ]
+}

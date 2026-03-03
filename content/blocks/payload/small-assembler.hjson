@@ -6,8 +6,9 @@ category: units
 droneType: lil-builder
 research: core-recon
 requirements:[
-  aluminum/100
+  aluminum/150
   iron/35
+  steel/100
   silicon/60
 ]
 plans:[

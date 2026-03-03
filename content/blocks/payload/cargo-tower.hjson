@@ -1,0 +1,16 @@
+type: PayloadMassDriver
+name: Small Cargo Tower
+description: Shoots payloads to a connected Cargo Tower. Requires power.
+consumes: {
+  power: 0.5
+}
+category: units
+research: sm-payload-conveyor
+requirements: [
+aluminum/50
+]
+reload: 120
+chargeTime: 90
+range: 480
+maxPayloadSize: 2
+size: 2

@@ -4,7 +4,6 @@ description: Builds structures and mines.
 speed: 0.75
 health: 120
 commands: [move, repair, rebuild, assist, mine]
-armor: 2
 flying: false
 canBoost: true
 buildSpeed: 1

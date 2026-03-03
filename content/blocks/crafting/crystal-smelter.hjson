@@ -1,0 +1,16 @@
+type: GenericCrafter
+name: Crystal Smelter
+description: Melts and separates orange crystal into iron and a small amount of silicon.
+size: 3
+health: 465
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  iron/8
+  silicon/2
+]
+consumes: {
+  items: [
+    orange-crystal/15
+  ]
+}

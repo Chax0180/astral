@@ -1,5 +1,5 @@
 type: UnitAssemblerModule
-name: "Access Port (Inert)"
+name: "Assembler Access Port (Inert)"
 description: An essential component to any assembler setup. Serves as an input point, but does not change the output unit.
 size: 2
 category: units

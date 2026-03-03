@@ -10,7 +10,7 @@ requirements: [
 aluminum/50
 ]
 reload: 120
-chargeTime: 90
-range: 480
+chargeTime: 30
+range: 120
 maxPayloadSize: 2
 size: 2

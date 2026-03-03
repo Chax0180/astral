@@ -60,7 +60,7 @@ trailEffect: {
     length: 100
     lifetime: 180
     interp: circleOut
-    cone: 15
+    cone: 180
     colorFrom: 6df2c4
     colorTo: 206f85
     sizeFrom: 10

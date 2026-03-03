@@ -20,7 +20,7 @@ consumes: [
 power/120
 liquid: water/2
 ]
-range: 395
+range: 1000
 
 ammoTypes: {
     copper: {
@@ -35,7 +35,7 @@ ammoTypes: {
       hitSound: explosionAfflict
       removeAfterPierce: false
     ammoMultiplier: 1
-      lifetime: 120
+      lifetime: 60
       width: 15
       height: 21
       frontColor: 6df2c4
